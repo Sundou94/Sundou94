@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Dou seon. A BackEnd Developer who loves art (Korean🇰🇷)
+I'm Dou seon. (Korean🇰🇷)
   </samp>
   <br/>
   <br/>
